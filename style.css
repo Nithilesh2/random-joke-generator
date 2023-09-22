@@ -31,6 +31,12 @@ body{
     box-shadow: 10px 10px 30px black;
 }
 
+.default{
+    font-size: 16px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 .text{
     font-size: 20px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
@@ -46,6 +52,7 @@ body{
     font-size: 16px;
     font-family: monospace;
     margin: 0 0 20px 0;
+    cursor: pointer;
 }
 
 @media screen and (max-width: 530px){
